@@ -1,0 +1,5 @@
+git  init  = inicia  um  repositorio no  git  
+git config user.name  = Cadastrar  nome 
+git config user.email=Cadastrar email
+git add -A=Adicionando  um comitted
+git status=Confirmar  se  o comitted  foi criado 
